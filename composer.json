@@ -1,0 +1,7 @@
+{
+    "name": "luciana/sistema-teste",
+    "description": "Uma breve descrição do seu projeto",
+    "type": "project",
+    "license": "MIT",
+    "require": {  "guzzlehttp/guzzle": "^7.0"}
+}
